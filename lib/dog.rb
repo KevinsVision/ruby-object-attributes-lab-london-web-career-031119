@@ -8,3 +8,5 @@ class Dog
     @name = full_dogs_name
   end
 end
+
+def
