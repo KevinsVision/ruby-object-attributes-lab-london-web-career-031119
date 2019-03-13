@@ -9,6 +9,6 @@ class Dog
   end
   
   def name 
-    "#{@dogs_name}".strip
+    #{@dogs_name}.strip
   end
 end
