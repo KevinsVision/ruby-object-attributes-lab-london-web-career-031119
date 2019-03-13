@@ -9,5 +9,5 @@ class Dog
   end
   
   def initialize(name)
-    @dogs_name = 
+    @dogs_name = name
 end
