@@ -8,6 +8,6 @@ class Dog
     @dogs_name = dogs_name
   end
   
-  def initialize
+  def initialize()
     
 end
