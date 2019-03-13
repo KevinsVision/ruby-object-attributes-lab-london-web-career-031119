@@ -3,4 +3,5 @@ class Dog
     "#{@dogs_name}"
   end
   
-  def name=()
+  def name=(full_dogs_name)
+    
