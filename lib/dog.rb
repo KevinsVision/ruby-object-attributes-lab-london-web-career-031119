@@ -1,3 +1,3 @@
-class
+class Dog
   def name 
     puts
