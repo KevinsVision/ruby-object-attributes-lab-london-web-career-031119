@@ -9,4 +9,10 @@ class Dog
   end
 end
 
-def
+  def breed
+    @breed
+  end
+  
+  def breed=(all_breads)
+    @breed = all_breads
+  end
