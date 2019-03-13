@@ -1,0 +1,4 @@
+class
+
+def name 
+  puts
